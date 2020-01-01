@@ -1,7 +1,7 @@
   # Healthcare Readmission Data Analysis
 
 ## Overview:
-Many low income families and individuals use Medicare and Medicaid services for their medical needs. The quality of medical services received and the prevention of wasted medical spending has been a growing concern especially of those who receive Medicare and Medicaid benefits. The federal government has enact legislation to ensure that Medicare and Medicaid recipients receive quality care while preventing wasteful medical spending.  Readmission rates are a good indicator of how effective the services that a healthcare facility provides. By exploring the Center of Medicare of Medicaid and Medicare Services (CMS) readmission data analysis can be done to determine how nationally we hold up with maintaining the quality of services for our Medicaid and Medicare recipients.
+Many low income families and individuals use Medicare services for their medical needs. Our aging population is experiencing a boom in individuals who are hitting retirement age, this population is also known as the baby boomers (people born between the years of 1946-1964 (investopedia.com)), making more individuals Medicare eligible than ever before. The quality of medical services received and the prevention of wasted medical spending has been a growing concern especially of those who receive Medicare benefits. The federal government has enact legislation to ensure that Medicare recipients receive quality care while preventing wasteful medical spending.  Readmission rates are a good indicator of how effective the services that a healthcare facility provides. By exploring the Center of Medicare of Medicaid and Medicare Services (CMS) readmission data and supporting data can be done to determine how nationally we hold up with maintaining the quality of services for our Medicare recipients and determine the health of our aging population.
 
 ## Data Question
 Is federal legislation improving quality of care for Medicare recipients in regards to readmissions, complications, and deaths? If so, which states are doing well and which are doing poorly? Are there any additional factors influencing the data.
@@ -11,3 +11,10 @@ For this project data from the CMS website was used. Two datasets were chosen th
 
 ## Tools used
 I used PowerBI with PowerQuery to perform the data analysis and build my dashboard.
+
+## The Process
+I downloaded then retrieve my datasets using the power query functionality that is built within PowerBI. Within power query I cleaned my data and fixed any formatting issues that came with the data. 
+
+From there I started doing exploratory data analysis looking for trends and learning more about the data.
+ 
+ I first looked at which states have the highest readmission rates nationally and the states that have the lowest admission rates nationally. 
