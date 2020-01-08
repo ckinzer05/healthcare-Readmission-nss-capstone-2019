@@ -17,6 +17,9 @@ I downloaded then retrieve my datasets using the power query functionality that 
 
 From there I started doing exploratory data analysis looking for trends and learning more about the data.
  
- I first looked at which states have the highest readmission rates nationally and the states that have the lowest readmission rates nationally. From there I created an interactive dashboard where a user can look at those states with the lowest and highest readmission rates at a high level and select those states to learn additional information in regards to average number of readmissions, average number of discharges, and the number of facilities reported in the data. 
+ I first looked at which states have the highest readmission rates nationally and the states that have the lowest readmission rates nationally. From there I created an interactive dashboard where a user can look at those states with the lowest and highest readmission rates at a high level and select those states to learn additional information in regards to average number of readmissions, average number of discharges, and the number of facilities reported in the data.
+ 
 ![image](https://user-images.githubusercontent.com/52723248/71938994-c9d06080-3176-11ea-944b-64d0c8682e0e.png)
+
+From there I decided to look at top health indicators and demographics by state to see if states with the lowest and highest readmission also fall high on top health indicators in the US. I created an overview dashboard featuring the top 10 statesin the following demographic or health indicator categories: average number of individuals by reported with cancer and chronic dieases, the states with the highest percentage of individuals who are 65+, and states with the highest percentage of individuals with chronic dieaseses.
 
