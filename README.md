@@ -23,3 +23,7 @@ From there I started doing exploratory data analysis looking for trends and lear
 
 From there I decided to look at top health indicators and demographics by state to see if states with the lowest and highest readmission also fall high on top health indicators in the US. I created an overview dashboard featuring the top 10 statesin the following demographic or health indicator categories: average number of individuals by reported with cancer and chronic dieases, the states with the highest percentage of individuals who are 65+, and states with the highest percentage of individuals with chronic dieaseses.
 
+![image](https://user-images.githubusercontent.com/52723248/71940921-af4db580-317d-11ea-8167-38e6c3a9d4b7.png)
+
+After looking at some of the states indicators and demographic, I pulled in the complications and death dataset, cleaned it in powerquery, and looked at complications and death measures by state. From there I created an interactive dashboard that allowed users to look at top 10 death and complications health measure in regards to the number of facilities within the state who rank best and worse in those measured categories. 
+
