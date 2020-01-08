@@ -17,4 +17,6 @@ I downloaded then retrieve my datasets using the power query functionality that 
 
 From there I started doing exploratory data analysis looking for trends and learning more about the data.
  
- I first looked at which states have the highest readmission rates nationally and the states that have the lowest admission rates nationally. 
+ I first looked at which states have the highest readmission rates nationally and the states that have the lowest readmission rates nationally. From there I created an interactive dashboard where a user can look at those states with the lowest and highest readmission rates at a high level and select those states to learn additional information in regards to average number of readmissions, average number of discharges, and the number of facilities reported in the data. 
+![image](https://user-images.githubusercontent.com/52723248/71938994-c9d06080-3176-11ea-944b-64d0c8682e0e.png)
+
