@@ -27,3 +27,7 @@ From there I decided to look at top health indicators and demographics by state 
 
 After looking at some of the states indicators and demographic, I pulled in the complications and death dataset, cleaned it in powerquery, and looked at complications and death measures by state. From there I created an interactive dashboard that allowed users to look at top 10 death and complications health measure in regards to the number of facilities within the state who rank best and worse in those measured categories. 
 
+![image](https://user-images.githubusercontent.com/52723248/71941665-3734bf00-3180-11ea-98da-08d28a9a61a9.png)
+
+Lastly after looking at complications and deaths measures of facilities by state, I wanted to see if the average number of readmissions by state impacted the number of facilities by state who rank worse or better in complications and deaths. I created a bar and line graph to show the if there was any relationship. 
+
