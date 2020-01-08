@@ -1,4 +1,4 @@
-  # Healthcare Readmission Data Analysis
+  # Healthcare Medicare Quality Data Analysis
 
 ## Overview:
 Many low income families and individuals use Medicare services for their medical needs. Our aging population is experiencing a boom in individuals who are hitting retirement age, this population is also known as the baby boomers (people born between the years of 1946-1964 (investopedia.com)), making more individuals Medicare eligible than ever before. The quality of medical services received and the prevention of wasted medical spending has been a growing concern especially of those who receive Medicare benefits. The federal government has enact legislation to ensure that Medicare recipients receive quality care while preventing wasteful medical spending.  Readmission rates are a good indicator of how effective the services that a healthcare facility provides. By exploring the Center of Medicare of Medicaid and Medicare Services (CMS) readmission data and supporting data can be done to determine how nationally we hold up with maintaining the quality of services for our Medicare recipients and determine the health of our aging population.
