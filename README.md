@@ -17,7 +17,7 @@ Big Cities Health Coalition: Provided 18,000 data points from 2010-2018 across m
 
 
 ## Tools used
-I used PowerBI with PowerQuery to perform the data analysis and build my dashboard.
+I used PowerBI with PowerQuery to clean, perform the data analysis, and build my dashboard.
 
 ## The Process
 I downloaded then retrieve my datasets using the power query functionality that is built within PowerBI. Within power query I cleaned my data and fixed any formatting issues that came with the data. 
